@@ -1,0 +1,9 @@
+{
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "editor.fontSize": 15,
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "python.autoComplete.addBrackets": true,
+    "http.proxyAuthorization": "http:10.121.2.100:8080",   // check for this if the program is not working bro.
+}
